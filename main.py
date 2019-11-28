@@ -74,7 +74,4 @@ print(accuracy_score(Y_validation, predictions))
 print(confusion_matrix(Y_validation, predictions))
 print(classification_report(Y_validation, predictions))
 
-# Intro to Machine Learning project
-# Used for determing the classification of types of iris plants using the iris data set
-
 
